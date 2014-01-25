@@ -1,0 +1,3 @@
+Hello I am Jess
+I'm so glad I'm learning python 
+Maybe soon I can do stuff like this for work!
