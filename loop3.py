@@ -1,0 +1,4 @@
+for week in range(1, 5):
+		print "Week {0}".format(week)
+
+print week
